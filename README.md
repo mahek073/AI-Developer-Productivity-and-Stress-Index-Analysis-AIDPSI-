@@ -11,19 +11,25 @@ High cognitive load from excessive AI use increases stress.
 **Features**
 
 Analyze AI usage and behavioral patterns
+
 Estimate productivity and stress using ML models
+
 Visualize productivity–stress trends for insights
 
 **Tech Stack**
 
 Python | Pandas | NumPy
+
 Scikit-learn | Matplotlib | Seaborn
+
 Jupyter Notebook
 
 **How to Run**
 
-Clone the repository:
+**Clone the repository:**
+
 git clone [https://github.com/yourusername/AIDPSI.git](https://github.com/mahek073/AI-Developer-Productivity-and-Stress-Index-Analysis-AIDPSI-.git)
+
 cd AI-Developer-Productivity-and-Stress-Index-Analysis-AIDPSI
 
 **Install dependencies:**
@@ -33,11 +39,13 @@ pip install -r requirements.txt
 **Run the Jupyter notebook for analysis :**
 
 jupyter notebook
+
 Open the notebook in the notebooks/ folder to explore the data and see the ML workflow.
 
 **Run the GUI to interact with models:**
 
 python src/GUI.py
+
 The GUI lets you input developer interaction data and see predicted productivity and stress levels
 
 **Goal**

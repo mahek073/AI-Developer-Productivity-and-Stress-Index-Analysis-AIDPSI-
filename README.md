@@ -33,7 +33,7 @@ Jupyter Notebook
 
 **Clone the repository:**
 
-git clone [https://github.com/yourusername/AIDPSI.git](https://github.com/mahek073/AI-Developer-Productivity-and-Stress-Index-Analysis-AIDPSI-.git)
+git clone (https://github.com/mahek073/AI-Developer-Productivity-and-Stress-Index-Analysis-AIDPSI-.git)
 
 cd AI-Developer-Productivity-and-Stress-Index-Analysis-AIDPSI
 

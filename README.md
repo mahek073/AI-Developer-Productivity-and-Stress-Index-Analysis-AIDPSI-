@@ -3,6 +3,11 @@
 
 AIDPSI analyzes how developers interact with AI tools and how these interactions affect productivity and stress levels. Using behavioral indicators and AI interaction data, the project estimates a Developer Productivity Score and a Stress Index.
 
+**Folder Structure**
+
+- `AIDPSI/` → contains all project files.  
+- `README.md` → this file.
+
 **Key Insight**
 
 Moderate AI usage boosts productivity.
@@ -31,10 +36,6 @@ Jupyter Notebook
 git clone [https://github.com/yourusername/AIDPSI.git](https://github.com/mahek073/AI-Developer-Productivity-and-Stress-Index-Analysis-AIDPSI-.git)
 
 cd AI-Developer-Productivity-and-Stress-Index-Analysis-AIDPSI
-
-**Install dependencies:**
-
-pip install -r requirements.txt
 
 **Run the Jupyter notebook for analysis :**
 
